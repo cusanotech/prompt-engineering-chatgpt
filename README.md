@@ -1,8 +1,8 @@
 # PROMPT EGINEERING CON CHATGPT
 
 **Este blog es de CusanoTech.**
-Conoce la historia de OpenAI:
-El éxito de OpenAI: Historia e innovación, año a año .
+  - Conoce la historia de OpenAI:  
+    - [El éxito de OpenAI: Historia e innovación, año a año.](https://cusanotech.medium.com/el-%C3%A9xito-continuo-de-openai-y-como-llegaron-a-crear-la-ia-mas-avanzada-del-2023-chatgpt-9fd04e26e405)
 
 ## ÍNDICE
 
@@ -74,71 +74,78 @@ Un buen prompt tiene una estructura, esta estructura está compuesta por cuatro 
 
 *No necesitas los cuatro elementos para un aviso y el formato depende de la tarea en cuestión*  
 
-Ejemplos  
+##Ejemplos  
 Ejemplos utilizando la estructura de un prompt de diferentes formas.  
 
 
-Ejemplo 1 y 2  
-En el ejemplo N1 le hicimos una pregunta simple, sin especificación ni estructura.  
-En el ejemplo N2 utilizamos la estructura de los cuatro elementos.  
+###Ejemplo 1  
+En el ejemplo izquierdo le hicimos una pregunta simple, sin especificación ni estructura.  
+En el ejemplo derecho utilizamos la estructura de los cuatro elementos.  
 ![IMAGEN](https://cdn-images-1.medium.com/max/960/1*5vyxP3bp0G9o-wbUWrogWA.png)
 
-EJEMPLO N2
-
+###EJEMPLO N2
+![IMAGEN](https://cdn-images-1.medium.com/max/960/1*de8PkFxMAO_Bqmn6SKEPdw.png)
 Elementos del prompt N2  
-Debemos saber que emplear los cuatro elementos de una estructura no significa que tendremos la mejor respuesta. Siempre dependerá el tipo de output que nosotros queramos recibir. Es decir, que en este ejemplo, la respuesta dada por ChatGPT es válida por igual.  
-
-Veamos más ejemplos
-
-
-EJEMPLO N3
-
-Elementos del prompt N3
-En este ejemplo no usamos Contexto ni un formato de salida.
-Más ejemplos…
+![IMAGEN](https://cdn-images-1.medium.com/max/640/1*MR3zVmRub6Qqyvqub-DshQ.png)
+Debemos saber que emplear los cuatro elementos de una estructura no significa que tendremos la mejor respuesta. Siempre dependerá el tipo de output que nosotros queramos recibir. Es decir, que en este ejemplo, la respuesta dada por ChatGPT es válida y dada por igual.  
 
 
-EJEMPLO N4
+###EJEMPLO N3
+![IMAGEN](https://cdn-images-1.medium.com/max/960/1*D5cVPuTkh1HIfKVuopGipw.png)
+**Elementos del prompt N3**  
+![IMAGEN](https://cdn-images-1.medium.com/max/640/1*BzxsuZ_LCW4RZ0BsvNDg_g.png)
+En este ejemplo no usamos Contexto ni un formato de salida.  
 
-Elementos del prompt N4
+
+
+###EJEMPLO N4  
+![IMAGEN](https://cdn-images-1.medium.com/max/960/1*MqM8fj8XGRAQ9LueZB2kOQ.png)
+**Elementos del prompt N4**  
+![IMAGEN](https://cdn-images-1.medium.com/max/640/1*8v4-B8uBwgVAW4cuuDgpcw.png)
 En este ejemplo sí usamos un formato de salida, pero sin contexto.
 Último ejemplo…
 
 
-EJEMPLO N5
+###EJEMPLO N5
+![IMAGEN](https://cdn-images-1.medium.com/max/960/1*cRc-L1ZQDO8l4q0Lw7ARwQ.png)
+**Estructura del prompt N5**  
+![IMAGEN](https://cdn-images-1.medium.com/max/640/1*n3gRQx6Te0evaFn87Z9KSw.png)  
+*Aquí vemos claramente como el orden de los elementos puede variar.*  
+En este ejemplo no especificamos el dato de salida, pero sí, le dimos un contexto, el contexto de texto “formal” que le queremos dar al mensaje.  
 
-Estructura del prompt N5
-Aquí vemos claramente como el orden de los elementos puede variar. En este ejemplo no especificamos el dato de salida, pero sí, le dimos un contexto, el contexto de texto “formal” que le queremos dar al mensaje.
-Como se ve claramente en los ejemplos, hay dos elementos que mayoritariamente no se dejan de lado. Estos son: INSTRUCCIÓN Y DATOS DE ENTRADA
+Como se ve claramente en los ejemplos, hay dos elementos que mayoritariamente no se dejan de lado.  
+Estos son: **INSTRUCCIÓN Y DATOS DE ENTRADA**   
 
-Detallando los cuatro elementos de un Prompt
-Elemento N1: La instrucción
-Las instrucciones son comandos para indicarle al modelo lo que deseas lograr, como “Escribe”, “Clasifica”, “Resume”, “Traduce”, “Ordena”, “Crea”, “Explica”, etc.
-Algunas personas recomiendan colocar las instrucciones al comienzo de la indicación. También muchas otras recomiendan utilizar separadores claros, como “###” para separar la instrucción del contexto.
-### Instrucción ###
-Extrae los nombres de lugares de este texto: -text-
-Elemento N2: Contexto
-Como ya sabemos, los modelos generativos funcionan por estadística, entonces que mejor que darles un buen contexto y aumentar la probabilidad de obtener un mejor resultado.
+###Detallando los cuatro elementos de un Prompt
+- Elemento N1: La instrucción  
+  - Las instrucciones son comandos para indicarle al modelo lo que deseas lograr, como “Escribe”, “Clasifica”, “Resume”, “Traduce”, “Ordena”, “Crea”, “Explica”, etc.  
+Algunas personas recomiendan colocar las instrucciones al comienzo de la indicación. También muchas otras recomiendan utilizar separadores claros, como “###” para separar la instrucción del contexto.  
+- Elemento N2: Contexto  
+  - Como ya sabemos, los modelos generativos funcionan por estadística, entonces que mejor que darles un buen contexto y aumentar la probabilidad de obtener un mejor resultado.  
 El contexto es igual a especificidad, cuanto más descriptivo y detallado es el prompt, mejor serán tus resultados.
-También hay que saber que incluir demasiados detalles innecesarios no es necesariamente un buen enfoque. Los detalles deben ser relevantes y contribuir a la tarea en cuestión.
-Elemento N3: Datos de entrada
-En este elemento no hace falta explicar nada, ya lo dice el mismo nombre.
-Elemento N4: Datos de salida
-En este elemento no hace falta explicar nada, ya lo dice el mismo nombre.
-Consejos
+También hay que saber que incluir demasiados detalles innecesarios no es necesariamente un buen enfoque. Los detalles deben ser relevantes y contribuir a la tarea en cuestión.  
+- Elemento N3: Datos de entrada  
+  - En este elemento no hace falta explicar nada, ya lo dice el mismo nombre.
+- Elemento N4: Datos de salida  
+  - En este elemento no hace falta explicar nada, ya lo dice el mismo nombre.
+
+##Consejos  
 Tienes que empezar con la práctica. Comienza simplemente por lo simple, poco a poco puede ir armando tus prompt e ir experimentando como funciona el modelo. No hace falta ser un experto para empezar a comunicarte textualmente con ChatGPT.
 
-Consejo N1: Cuando tienes una tarea grande que involucra muchas subtareas diferentes, puedes intentar dividir la tarea en subtareas más simples y seguir construyendo a medida que obtienes mejores resultados
+**Consejo N1:**  
+Cuando tienes una tarea grande que involucra muchas subtareas diferentes, puedes intentar dividir la tarea en subtareas más simples y seguir construyendo a medida que obtienes mejores resultados
 
-Consejo N2: Comunicación efectiva; se especificó, conciso y lo más directo posible con el modelo.
+**Consejo N2:**  
+Comunicación efectiva; se especificó, conciso y lo más directo posible con el modelo.
 Los mejores resultados que he obtenido en ChatGPT han sido cuando fui claro con lo que andaba buscando. Decirle si quiero un formato en items, la cantidad de palabras, que tema, quiero que resalte más, que estilo de texto, etc. es la clave para una comunicación efectiva.
 
-Consejo N3: Este creo que es el consejo más importante (en mi opinión).
-Al principio, cuando comencé, era muy común que el 90% de mi instrucción, era decirle que es lo que no quería. ¡Grave error!
-Al diseñar prompts hay que evitar decir que es lo que no queremos que haga, en su lugar, hay que dar más énfasis a decir que es lo que si queremos que haga.
+**Consejo N3:**  
+Este creo que es el consejo más importante (en mi opinión).  
+Al principio, cuando comencé, era muy común que el 90% de mi instrucción, era decirle que es lo que no quería. ¡Grave error!  
+Al diseñar prompts hay que evitar decir que es lo que no queremos que haga, en su lugar, hay que dar más énfasis a decir que es lo que si queremos que haga.  
 
-¡Gracias por llegar hasta aquí!
-Espero que esta información haya sido de tu agrado.
-¡Si así fue, te reto a que lo pongas en práctica y me comentes tus resultados!😄🚀
-⋆ Lo que CusanoTech aprende, tú también lo aprendes ⋆
-⮕ Medium / Instagram / Linkedin / Cusanotech.com
+## ¡Gracias por llegar hasta aquí!  
+**Espero que esta información haya sido de tu agrado.**  
+**Si así fue, te reto a que lo pongas en práctica y me comentes tus resultados!😄🚀**  
+**⋆ Lo que CusanoTech aprende, tú también lo aprendes ⋆**  
+**⮕ [Medium](https://medium.com/r/?url=https%3A%2F%2Fcusanotech.medium.com%2F) / [Instagram](instagram.com/cusanotech) / [Linkedin](linkedin.com/in/cusanotech) / [www.cusanotech.com](www.cusanotech.com)**
