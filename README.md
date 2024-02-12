@@ -78,7 +78,7 @@ Un buen prompt tiene una estructura, esta estructura está compuesta por cuatro 
 Ejemplos utilizando la estructura de un prompt de diferentes formas.  
 
 
-###Ejemplo 1  
+### Ejemplo 1  
 En el ejemplo izquierdo le hicimos una pregunta simple, sin especificación ni estructura.  
 En el ejemplo derecho utilizamos la estructura de los cuatro elementos.  
 ![IMAGEN](https://cdn-images-1.medium.com/max/960/1*5vyxP3bp0G9o-wbUWrogWA.png)
@@ -90,33 +90,33 @@ Elementos del prompt N2
 Debemos saber que emplear los cuatro elementos de una estructura no significa que tendremos la mejor respuesta. Siempre dependerá el tipo de output que nosotros queramos recibir. Es decir, que en este ejemplo, la respuesta dada por ChatGPT es válida y dada por igual.  
 
 
-###EJEMPLO N3
-![IMAGEN](https://cdn-images-1.medium.com/max/960/1*D5cVPuTkh1HIfKVuopGipw.png)
+### EJEMPLO N3
+![IMAGEN](https://cdn-images-1.medium.com/max/960/1*D5cVPuTkh1HIfKVuopGipw.png)  
 **Elementos del prompt N3**  
-![IMAGEN](https://cdn-images-1.medium.com/max/640/1*BzxsuZ_LCW4RZ0BsvNDg_g.png)
+![IMAGEN](https://cdn-images-1.medium.com/max/640/1*BzxsuZ_LCW4RZ0BsvNDg_g.png)  
 En este ejemplo no usamos Contexto ni un formato de salida.  
 
 
 
-###EJEMPLO N4  
-![IMAGEN](https://cdn-images-1.medium.com/max/960/1*MqM8fj8XGRAQ9LueZB2kOQ.png)
+### EJEMPLO N4  
+![IMAGEN](https://cdn-images-1.medium.com/max/960/1*MqM8fj8XGRAQ9LueZB2kOQ.png)  
 **Elementos del prompt N4**  
-![IMAGEN](https://cdn-images-1.medium.com/max/640/1*8v4-B8uBwgVAW4cuuDgpcw.png)
+![IMAGEN](https://cdn-images-1.medium.com/max/640/1*8v4-B8uBwgVAW4cuuDgpcw.png)  
 En este ejemplo sí usamos un formato de salida, pero sin contexto.
 Último ejemplo…
 
 
-###EJEMPLO N5
-![IMAGEN](https://cdn-images-1.medium.com/max/960/1*cRc-L1ZQDO8l4q0Lw7ARwQ.png)
+### EJEMPLO N5
+![IMAGEN](https://cdn-images-1.medium.com/max/960/1*cRc-L1ZQDO8l4q0Lw7ARwQ.png)  
 **Estructura del prompt N5**  
-![IMAGEN](https://cdn-images-1.medium.com/max/640/1*n3gRQx6Te0evaFn87Z9KSw.png)  
+![IMAGEN](https://cdn-images-1.medium.com/max/640/1*n3gRQx6Te0evaFn87Z9KSw.png)    
 *Aquí vemos claramente como el orden de los elementos puede variar.*  
 En este ejemplo no especificamos el dato de salida, pero sí, le dimos un contexto, el contexto de texto “formal” que le queremos dar al mensaje.  
 
-Como se ve claramente en los ejemplos, hay dos elementos que mayoritariamente no se dejan de lado.  
-Estos son: **INSTRUCCIÓN Y DATOS DE ENTRADA**   
+**Como se ve claramente en los ejemplos, hay dos elementos que mayoritariamente no se dejan de lado.  
+Estos son: INSTRUCCIÓN Y DATOS DE ENTRADA**   
 
-###Detallando los cuatro elementos de un Prompt
+### Detallando los cuatro elementos de un Prompt
 - Elemento N1: La instrucción  
   - Las instrucciones son comandos para indicarle al modelo lo que deseas lograr, como “Escribe”, “Clasifica”, “Resume”, “Traduce”, “Ordena”, “Crea”, “Explica”, etc.  
 Algunas personas recomiendan colocar las instrucciones al comienzo de la indicación. También muchas otras recomiendan utilizar separadores claros, como “###” para separar la instrucción del contexto.  
@@ -129,7 +129,7 @@ También hay que saber que incluir demasiados detalles innecesarios no es necesa
 - Elemento N4: Datos de salida  
   - En este elemento no hace falta explicar nada, ya lo dice el mismo nombre.
 
-##Consejos  
+## Consejos  
 Tienes que empezar con la práctica. Comienza simplemente por lo simple, poco a poco puede ir armando tus prompt e ir experimentando como funciona el modelo. No hace falta ser un experto para empezar a comunicarte textualmente con ChatGPT.
 
 **Consejo N1:**  
