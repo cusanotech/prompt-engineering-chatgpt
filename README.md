@@ -26,7 +26,7 @@ El éxito de OpenAI: Historia e innovación, año a año .
 
 
 ## INTRODUCCIÓN
-**¿Que es ChatGPT?**
+**¿Que es ChatGPT?**  
 ChatGPT es un prototipo de chatbot de inteligencia artificial desarrollado en 2022 por OpenAI que se especializa en el diálogo. El chatbot es un gran modelo de lenguaje, ajustado con técnicas de aprendizaje tanto supervisadas como de refuerzo.​
 Si nunca has probado ChatGPT, solo debes ingresar con tu correo y ya lo puedes utilizar haciendo clic AQUÍ.
 
