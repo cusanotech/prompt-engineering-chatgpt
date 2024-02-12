@@ -5,33 +5,25 @@ Conoce la historia de OpenAI:
 El éxito de OpenAI: Historia e innovación, año a año .
 
 ## ÍNDICE
-**- Introducción:**
 
-  ¿Que es ChatGPT?
-  
-  ¿Que significa prompt engineering y para qué sirve?
-  
-  ¿Por qué es importante la Ingeniería de Prompts?
-  
-**- Advertencias:**
+- Introducción:
+  - ¿Qué es ChatGPT?
+  - ¿Qué significa prompt engineering y para qué sirve?
+  - ¿Por qué es importante la Ingeniería de Prompts?
 
-  Advertencias en los LLM
-  
-  Principales precauciones
-  
-**-Estructura de un Prompt:**
+- Advertencias:
+  - Advertencias en los LLM
+  - Principales precauciones
 
-  Los cuatro elementos principales de un prompt
-  
-  Ejemplos
-  
-  Detallando los cuatro elementos
-  
-  Consejos
-  
-**- Fin y despedida**
+- Estructura de un Prompt:
+  - Los cuatro elementos principales de un prompt
+  - Ejemplos
+  - Detallando los cuatro elementos
+  - Consejos
 
-  Contacto y redes sociales
+- Fin y despedida
+  - Contacto y redes sociales
+
 
 ## INTRODUCCIÓN
 **¿Que es ChatGPT?**
