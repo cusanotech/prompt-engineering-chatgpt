@@ -27,66 +27,66 @@ El éxito de OpenAI: Historia e innovación, año a año .
 
 ## INTRODUCCIÓN
 **¿Que es ChatGPT?**  
-ChatGPT es un prototipo de chatbot de inteligencia artificial desarrollado en 2022 por OpenAI que se especializa en el diálogo. El chatbot es un gran modelo de lenguaje, ajustado con técnicas de aprendizaje tanto supervisadas como de refuerzo.​
-Si nunca has probado ChatGPT, solo debes ingresar con tu correo y ya lo puedes utilizar haciendo clic AQUÍ.
+ChatGPT es un prototipo de chatbot de inteligencia artificial desarrollado en 2022 por OpenAI que se especializa en el diálogo. El chatbot es un gran modelo de lenguaje, ajustado con técnicas de aprendizaje tanto supervisadas como de refuerzo.​  
+Si nunca has probado ChatGPT, solo debes ingresar con tu correo y ya lo puedes utilizar haciendo clic AQUÍ.  
 
-**¿Qué significa Prompt Engineering y para qué sirve?**
-Prompt Engineering es un concepto que consiste en las técnicas de descripción de tareas incrustadas en la entrada, para obtener una salida deseada por parte de los modelos de IAs, por ejemplo, una pregunta.
+**¿Qué significa Prompt Engineering y para qué sirve?**  
+Prompt Engineering es un concepto que consiste en las técnicas de descripción de tareas incrustadas en la entrada, para obtener una salida deseada por parte de los modelos de IAs, por ejemplo, una pregunta.  
 
-Este concepto se emplea en inteligencia artificial(IA) particularmente en el procesamiento de lenguaje natural (PNL, un subcampo interdisciplinario de la lingüística, la informática y la inteligencia artificial, que se ocupa de las interacciones entre las computadoras y el lenguaje humano, en particular, se enfoca en como programar a las computadoras para procesar y analizar grandes cantidades de datos del lenguaje natural (lenguaje humano)).
+Este concepto se emplea en inteligencia artificial(IA) particularmente en el procesamiento de lenguaje natural (PNL, un subcampo interdisciplinario de la lingüística, la informática y la inteligencia artificial, que se ocupa de las interacciones entre las computadoras y el lenguaje humano, en particular, se enfoca en como programar a las computadoras para procesar y analizar grandes cantidades de datos del lenguaje natural (lenguaje humano)).  
 
-**¿Por qué es importante conocer la ingeniería de Prompts?**
-La ingeniería de prompts es usada en la amplia variedad de procesamientos de lenguaje natural. Por ejemplo, en la creación de texto a imagen, texto a video y texto a texto.
-Esta habilidad de comunicación con los modelos de lenguajes beneficia a todos. Ya estamos viendo beneficiado los sectores de Marketing, educación, negocios, software, salud y muchos más.
+**¿Por qué es importante conocer la ingeniería de Prompts?**  
+La ingeniería de prompts es usada en la amplia variedad de procesamientos de lenguaje natural. Por ejemplo, en la creación de texto a imagen, texto a video y texto a texto.  
+Esta habilidad de comunicación con los modelos de lenguajes beneficia a todos. Ya estamos viendo beneficiado los sectores de Marketing, educación, negocios, software, salud y muchos más.  
 
-Adaptarnos a esta nueva revolución, donde los modelos de lenguaje están siendo cada vez más incorporados en las herramientas digitales que utiliza la gran mayoría de personas, sin importar rubros o especialización, es clave para no quedarnos fuera de lo que nos puede llegar a brindar.
-Por ejemplo, una mayor productividad y automatización en nuestras tareas complejas.
+Adaptarnos a esta nueva revolución, donde los modelos de lenguaje están siendo cada vez más incorporados en las herramientas digitales que utiliza la gran mayoría de personas, sin importar rubros o especialización, es clave para no quedarnos fuera de lo que nos puede llegar a brindar.  
+Por ejemplo, una mayor productividad y automatización en nuestras tareas complejas.  
 
-## ADVERTENCIAS
-**Advertencia en los LLM**
-Estas herramientas como ChatGPT, Google Bard o el Chat de Bing, son herramientas útiles y seguras, pero debemos tener en cuenta que al final, es un software que está alojado en la web y que el riesgo de que tus datos sean comprometidos, aunque sea mínimo, siempre va a estar.
+## ADVERTENCIAS  
+**Advertencia en los LLM**  
+Estas herramientas como ChatGPT, Google Bard o el Chat de Bing, son herramientas útiles y seguras, pero debemos tener en cuenta que al final, es un software que está alojado en la web y que el riesgo de que tus datos sean comprometidos, aunque sea mínimo, siempre va a estar.  
 
-*Si no sabías:*
-El 20 de marzo, ChatGPT tuvo un error en una de sus bibliotecas de código abierto, donde permitía a algunos usuarios a ver títulos del historial de chat de otros usuarios activos en la plataforma.
-También, descubren que el mismo error pudo haber causado la visibilidad involuntaria de la información relacionada con los pagos de los suscriptores a ChatGPT Plus.
-Cosa que OpenAI, luego, toma la medida de desconectar a ChatGPT por un día para resolver ese error, pudiendo más tarde restaurar el servicio y controlar la situación.
+*Si no sabías:*  
+El 20 de marzo, ChatGPT tuvo un error en una de sus bibliotecas de código abierto, donde permitía a algunos usuarios a ver títulos del historial de chat de otros usuarios activos en la plataforma.  
+También, descubren que el mismo error pudo haber causado la visibilidad involuntaria de la información relacionada con los pagos de los suscriptores a ChatGPT Plus.  
+Cosa que OpenAI, luego, toma la medida de desconectar a ChatGPT por un día para resolver ese error, pudiendo más tarde restaurar el servicio y controlar la situación.  
 
-**Principales advertencias:**
-- Evita compartir datos sensibles:
-Evita la información sensible como contraseñas, nombres completos, dirección, número de seguro social, número telefónico, números de tarjetas financieras o cualquier información que pueda identificarte personalmente.
-- Asegura tu entorno:
-Evita el uso de estas LLM en redes públicas abiertas de Wi-Fi. Utiliza conexiones seguras y privadas. Puedes incluir la utilización de una VPN si lo deseas.
-- No creas todo lo que dice:
-La precaución de este punto es que la información médica, nutricional o de relaciones sociales, es mejor que las hables con especialistas.
+**Principales advertencias:**  
+- Evita compartir datos sensibles:  
+Evita la información sensible como contraseñas, nombres completos, dirección, número de seguro social, número telefónico, números de tarjetas financieras o cualquier información que pueda identificarte personalmente.  
+- Asegura tu entorno:  
+Evita el uso de estas LLM en redes públicas abiertas de Wi-Fi. Utiliza conexiones seguras y privadas. Puedes incluir la utilización de una VPN si lo deseas.  
+- No creas todo lo que dice:  
+La precaución de este punto es que la información médica, nutricional o de relaciones sociales, es mejor que las hables con especialistas.  
 Estos LLM, como sabemos, están entrenados con una inmensa cantidad de datos, pero estos datos no están supervisados en términos de su calidad o veracidad (ese es uno de los problemas que resaltan las instituciones que buscan regularización). Por otro parte, tampoco están entrenados con toda la información del universo, por eso muchas veces arrojan outputs con “delirio”, ya que inventa esas cadenas de texto recopilando lo que sí tiene en su base de datos.
 
-## ELEMENTOS DE UN PROMPT
-**Los cuatro elementos principales de un prompt**
-Un buen prompt tiene una estructura, esta estructura está compuesta por cuatro elementos principales.
+## ELEMENTOS DE UN PROMPT  
+**Los cuatro elementos principales de un prompt**  
+Un buen prompt tiene una estructura, esta estructura está compuesta por cuatro elementos principales.  
 
-1. Instrucción: Una tarea o instrucción especifica que desea que el modelo realice.
+1. Instrucción: Una tarea o instrucción especifica que desea que el modelo realice.  
 
-2. Contexto: Adicionar información externa o contexto adicional que pueda orientar al modelo hacia mejores respuestas.
+2. Contexto: Adicionar información externa o contexto adicional que pueda orientar al modelo hacia mejores respuestas.  
 
-3. Datos de entrada: La entrada o pregunta para la que estamos interesados en encontrar una respuesta (el tema).
+3. Datos de entrada: La entrada o pregunta para la que estamos interesados en encontrar una respuesta (el tema).  
 
-4. Indicador de salida: El tipo o formato de salida.
+4. Indicador de salida: El tipo o formato de salida.  
 
-*No necesitas los cuatro elementos para un aviso y el formato depende de la tarea en cuestión*
+*No necesitas los cuatro elementos para un aviso y el formato depende de la tarea en cuestión*  
 
-Ejemplos
-Ejemplos utilizando la estructura de un prompt de diferentes formas.
+Ejemplos  
+Ejemplos utilizando la estructura de un prompt de diferentes formas.  
 
 
-Ejemplo 1 y 2
-En el ejemplo N1 le hicimos una pregunta simple, sin especificación ni estructura.
-En el ejemplo N2 utilizamos la estructura de los cuatro elementos.
+Ejemplo 1 y 2  
+En el ejemplo N1 le hicimos una pregunta simple, sin especificación ni estructura.  
+En el ejemplo N2 utilizamos la estructura de los cuatro elementos.  
 ![IMAGEN](https://cdn-images-1.medium.com/max/960/1*5vyxP3bp0G9o-wbUWrogWA.png)
 
 EJEMPLO N2
 
-Elementos del prompt N2
-Debemos saber que emplear los cuatro elementos de una estructura no significa que tendremos la mejor respuesta. Siempre dependerá el tipo de output que nosotros queramos recibir. Es decir, que en este ejemplo, la respuesta dada por ChatGPT es válida por igual.
+Elementos del prompt N2  
+Debemos saber que emplear los cuatro elementos de una estructura no significa que tendremos la mejor respuesta. Siempre dependerá el tipo de output que nosotros queramos recibir. Es decir, que en este ejemplo, la respuesta dada por ChatGPT es válida por igual.  
 
 Veamos más ejemplos
 
