@@ -74,7 +74,7 @@ Un buen prompt tiene una estructura, esta estructura está compuesta por cuatro 
 
 *No necesitas los cuatro elementos para un aviso y el formato depende de la tarea en cuestión*  
 
-##Ejemplos  
+## Ejemplos  
 Ejemplos utilizando la estructura de un prompt de diferentes formas.  
 
 
@@ -83,7 +83,7 @@ En el ejemplo izquierdo le hicimos una pregunta simple, sin especificación ni e
 En el ejemplo derecho utilizamos la estructura de los cuatro elementos.  
 ![IMAGEN](https://cdn-images-1.medium.com/max/960/1*5vyxP3bp0G9o-wbUWrogWA.png)
 
-###EJEMPLO N2
+### EJEMPLO N2
 ![IMAGEN](https://cdn-images-1.medium.com/max/960/1*de8PkFxMAO_Bqmn6SKEPdw.png)
 Elementos del prompt N2  
 ![IMAGEN](https://cdn-images-1.medium.com/max/640/1*MR3zVmRub6Qqyvqub-DshQ.png)
