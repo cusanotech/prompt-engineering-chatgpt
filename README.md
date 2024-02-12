@@ -148,4 +148,4 @@ Al diseñar prompts hay que evitar decir que es lo que no queremos que haga, en 
 **Espero que esta información haya sido de tu agrado.**  
 **Si así fue, te reto a que lo pongas en práctica y me comentes tus resultados!😄🚀**  
 **⋆ Lo que CusanoTech aprende, tú también lo aprendes ⋆**  
-**⮕ [Medium](https://medium.com/r/?url=https%3A%2F%2Fcusanotech.medium.com%2F) / [Instagram](instagram.com/cusanotech) / [Linkedin](linkedin.com/in/cusanotech) / [www.cusanotech.com](www.cusanotech.com)**
+**⮕ [Medium](https://cusanotech.medium.com) / [Instagram](https://instagram.com/cusanotech) / [Linkedin](https://linkedin.com/in/cusanotech) / [www.cusanotech.com](https://www.cusanotech.com)**
